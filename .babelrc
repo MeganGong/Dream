@@ -1,0 +1,12 @@
+{
+  "presets": ["env"],
+  "plugins": [
+    "transform-class-properties",
+    [
+      "react-intl", {
+        "messagesDir": "./client/src/messages",
+        "enforceDescriptions": false
+      }
+    ]
+  ]
+}
