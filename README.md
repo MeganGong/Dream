@@ -1,3 +1,3 @@
-This is Megan's personal website, her first project
+This is Megan's personal website unfinished
 
-This project is bootstrapped with React, bootstrap, webpack
+This project is bootstrapped with ReactJS, bootstrap, webpack, HTML5, CSS3
